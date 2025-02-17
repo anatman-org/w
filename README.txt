@@ -1,68 +1,34 @@
+  this is a Game
+  it is a Game of Glass Beads
+
+  the Premise of the Game
+  is laid Out in Herman Hesse's Eponymous Work
+
+  Heraclitus Calls It
+  "the Game of Children"
+
+  it Sounds like
+  the Clifford Jordan Quartet's Eponymous Work
+
+anatman-org is
+  the Annotated Manual of the Glass Bead Game
+
+  it is the Index of all Games
+  mapped across different Systems of Play
+
 ---
-meta: ---
-this is a Game
-it is a Game of Glass Beads
 
-it is a fictional Game
-the fictional stakes are the fate of Existence
+at this time
+all Ludi Game moves submitted to ANATMAN-ORG
+must be either mod-3 mapping to a movement of Pythagorean Squares
+or must be mod-4 mapping to quart-imaginary base
+perferrably Both
 
-namely that it is inevitable that a person discover
-how to undo existence itself
+this is because 0ur most efficient hashing algorithms for mod-5 and up
+are too expensive to run given the finite computational bandwidth We have Remaining
 
-and that the knowledge to do this is already there in pieces
-
-and the 0ne solution to
-this fictional problem
-
-is to get as many humans to agree --
-agree on 0ne Single Thing
----
-roles:
-  - name: /w/ops/it/storage/prime
-    user:
-        - thor.10
-  - name: /w/ops/it/idm/prime
-    user:
-        - thor.10
-  - name: /magi/*
-    user:
-      context:
-        - site: reddit.com
-          userid: u/***************_2275 
-      vim: ⴱ ⴲⵀⵀⴲ ●●●● ●●●● ●
-start:
-  condition: ---
-pluto in constellation Aquaries
----
-index:
-  tag:
-    - Astrology
-    - Astronomy
-end:
-  condition:
-    exception: ---
-QGF divergence from QCDF Model on QCAI v1
----
-  risk: High
-  probability: High
-  cost: ---
-Loss of stem Singularity brane for Model
-
-This is the last false equilibrium in the Quantum Field.
-There are no more "islands of stability" before complete field collapse.
----
-  mean-date: 20360413.*
-  response-plan:
-    category: avoid risk by Coincident
-    
-  strategy-notes: ---
-The Index algorithm favors breadth and depth of
-the Coincident field of Glass Bead Games
-
-this means that submission favors creativity and quality,
-and that these favor both diversity and quantity
-
-of cooperating Ludi
-making violence and competition 
+and because the mod-2 hashing algorithms for remaining Games have either
+a conformal mapping to the I Ching sequences [and therefore at least a secondary conformal transformation]
+or the games are too numerous to assign a queue position
 
 
