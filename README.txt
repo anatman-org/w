@@ -41,7 +41,7 @@ the Magister had said
 ⴱ ⵔ●ⵀⵀ        ⵔ●ⴲ●      ●ⵔ●●                     ⵔ
 
   if You need to read the Mountain
-  Go to the Dark Pond
+  Go to the Dark Mirror
 
 ⵀ   ●●ⵔⴱ      ⵔ●●ⵀ      ⵔⵔ●ⵔ                     ⵔ
 ⵀ  ⵔ●ⵔ●ⵔⵔ●ⵔ    ⵔⵔ●ⵔ            ●ⴱⴲⵔⴲⵔ●ⵔ          ●
@@ -57,17 +57,26 @@ the Magister had said
 
   See WHere to Go In
 
-
 ⵔ   ⵔⵔⵔⵔ●ⵀⵔ●    ⵔⵔ●ⵔⴱⵀⵔ●            ●●●●●ⴱ●●     ●
 ⵔ ●ⵔ●●●●ⵔ●  ●ⵔⴲ●ⵔ●ⴱ●            ⵔⵔⴱ●             ⴱ
+
+  when You look in the Dark Mirror
+  and see no reflection
+
 ●    ⴱ●ⵔⵔ      ●●ⵀⵔ      ⵔⵔ●ⵀⵔⵔⴲⵔ                ●
 ● ⴱⴱ●ⵔ  ⵔ●ⵀ●●ⴲ●ⵔ         ●ⵀⵔ●                    ●
 
-
+  then, then
 
 ⵔ   ⵔ●ⵀ●      ⵔ●●ⵀ   ⵔⵔⵔ●●ⵀ●ⴱ                    ●
 ●    ●●ⴲⵔ      ●●ⴱⵔ      ⵀⴱ●●                    ⵔ
+
+  is the time
+
 ⴲ    ●ⵔⵔ●ⵀⵔⵔ●    ●ⵔ●ⵀⵀⴲⵀⵔ            ⵀ●ⴱⵔ●ⴲ●ⵔ    ⵔ
+
+  the time of Transformation Irrevocable
+
 ⵔ ●ⵔⵔ●    ●●●ⵀ●●●ⴱ            ●ⴱⵔⵔ               ●
 ● ⴱ●ⵔⴱ●●ⵔⵔ  ⵔ●●●●●ⵔ●   ●ⴱⵔ●ⴲ●●ⵔ                  ⵔ
 ●    ⴱ●●●        ⵔⵔ●ⵀ         ⵔⵔ●ⴲ               ●
